@@ -1,0 +1,14 @@
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\bin\Debug\Kryptologia.exe.config
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\bin\Debug\Kryptologia.exe
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\bin\Debug\Kryptologia.pdb
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\MainWindow.g.cs
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\App.g.cs
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia_MarkupCompile.cache
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia_MarkupCompile.lref
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\MainWindow.baml
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia.g.resources
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia.Properties.Resources.resources
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia.csproj.GenerateResource.cache
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia.csproj.CoreCompileInputs.cache
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia.exe
+C:\Users\y5070\Desktop\Kryptologia_Guzma_Petrovsky\obj\Debug\Kryptologia.pdb
